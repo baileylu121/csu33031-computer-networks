@@ -1,0 +1,1 @@
+Notes and work for [CSU34011 Symbolic Programming](https://tcd.blackboard.com/ultra/courses/_102406_1/outline).
