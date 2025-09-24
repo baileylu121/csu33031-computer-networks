@@ -1,0 +1,1 @@
+_Forward [[Error Correction]]_ is a more complicated form of [[Error Correction|error correction]], where the corrupted bits are determined by the receiver and then corrected there instead of asking for [[Retransmission|retransmission]].

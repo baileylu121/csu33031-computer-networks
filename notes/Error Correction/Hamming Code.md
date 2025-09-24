@@ -1,0 +1,1 @@
+A _Hamming Code_ is a version of [[Forward Error Correction|forward error correction]] involving introducing redundancy bits through out the data in order to be able to reconstruct missing bits, in a similar process to a [[Parity Check|parity check]].

@@ -1,0 +1,1 @@
+_Retransmission_ is the most simple way to correct an error that has been found in a given packet, and involves just sending the packet again
