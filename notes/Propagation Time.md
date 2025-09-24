@@ -1,0 +1,1 @@
+The _Propagation Time_ is the time taken for a bit to traverse the link
