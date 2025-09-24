@@ -1,0 +1,3 @@
+A [[Checksum]] is a method for detecting errors which expects a hashed value of the sent data to be equal to the hash value of the received data.
+
+This has much more overhead than a [[Parity Check]] or [[Cyclic Redundancy Check]], however, also has the highest chance of successfully detecting an error, due to sending the hashes requiring a larger amount of data, and additionally hashing is generally quite expensive.
