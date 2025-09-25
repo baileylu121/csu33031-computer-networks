@@ -1,3 +1,7 @@
+---
+aliases:
+  - Data Transparency
+---
 _Addressing_ is the process of determining the next network hop to jump to.
 
 This can be visualised by running `traceroute`:
