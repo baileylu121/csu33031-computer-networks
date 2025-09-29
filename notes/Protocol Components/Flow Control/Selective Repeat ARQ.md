@@ -4,4 +4,4 @@ Similar to [[Go-Back-N ARQ]], it also uses **sliding-windows** to increase the a
 
 Windows will be sent in full, and then advance by their full size after acknowledgement, unless a special **negative acknowledgement** is sent, which request re-sending the whole window at once.
 
-![[Selective Repeat ARQ Image.png]]
+![[Selective Repeat ARQ.png]]

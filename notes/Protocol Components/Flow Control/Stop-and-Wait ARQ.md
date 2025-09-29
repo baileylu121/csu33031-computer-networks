@@ -7,4 +7,4 @@ Here, an acknowledgement is only sent if two things have occurred:
 > [!note]
 > Frames are usually numbered to ensure the correct one will be resent if an acknowledgement is not received
 
-![[Stop-and-Wait ARQ Image.png]]
+![[Stop-and-Wait ARQ.png]]

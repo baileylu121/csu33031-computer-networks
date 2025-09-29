@@ -1,4 +1,4 @@
-There are a variety of ways to detect that an error has occurred for a given packet that has been received, including:
+[]()There are a variety of ways to detect that an error has occurred for a given packet that has been received, including:
 - [[Parity Check]]
 - [[Cyclic Redundancy Check]]
 - [[Checksum]]

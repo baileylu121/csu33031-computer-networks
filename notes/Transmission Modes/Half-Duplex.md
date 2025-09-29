@@ -4,7 +4,7 @@ tags:
 ---
 In _half-duplex mode_, **both** the sender and receiver can transmit, however they can only do so **one at a time**.
 
-![[Half-Duplex Mode Image.png]]
+![[Half-Duplex Mode.png]]
 # Advantages
 
 | Advantage                           | Description                                                                          |

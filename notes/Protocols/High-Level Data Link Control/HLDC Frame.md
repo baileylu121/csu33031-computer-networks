@@ -1,6 +1,6 @@
 A _[[High-Level Data Link Control|HLDC]] Frame_ is an individual packet of data and some metadata about the packet.
 
-![[HLDC Frame Image.png]]
+![[HLDC Frame.png]]
 
 | Component            | Purpose                                                                         |
 | -------------------- | ------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ The _I-Frame_ is a type of frame containing information for transfer.
 
 > [!info] Control Sequence
 > It's control sequence looks like:
-> ![[I-Frame Image.png]]
+> ![[I-Frame.png]]
 > **Where**:
 > - $N(S)$ = Sequence number of sender
 > - $N(R)$ = Sequence number of receiver
@@ -26,7 +26,7 @@ The _S-Frame_ is a type of frame containing supervisory information for communic
 
 > [!info] Control Sequence
 > It's control sequence looks like:
-> ![[S-Frame Image.png]]
+> ![[S-Frame.png]]
 > **Where**:
 > - $Code$ can be any of:
 >   - $00$ = Receive Ready (RR)
@@ -39,6 +39,6 @@ The _U-Frame_ is a type of frame used for miscellaneous other purposes.
 
 > [!info] Control Sequence
 > It's control sequence looks like:
-> ![[U-Frame Image.png]]
+> ![[U-Frame.png]]
 > **Code may be any of**:
 > ![[U-Frame Codes.png]]

@@ -3,7 +3,7 @@ A _Parity Check_ involves expecting a certain property to be true about the **od
 # Even Check
 An even _parity check_ involves sending an **optional extra** bit with every chunk of data so that the total number of $1$'s is always **even**.
 
-![[Even Check Image.png]]
+![[Even Check.png]]
 
 This is a fairly low overhead operation to perform (see the `popcnt` x86 ASM instruction), but is likely to miss a lot of errors during it's operation.
 
@@ -17,4 +17,4 @@ For a _2D Parity Check_, a block of bits is subdivided into a grid, then an extr
 
 Then, every single row and column gets an [[Parity Check#Even Check|even parity check]] ran on it individually.
 
-![[2D Parity Check Image.png]]
+![[2D Parity Check.png]]

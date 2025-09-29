@@ -1,6 +1,6 @@
 A _[[High-Level Data Link Control|HLDC]] Station_ is a given point of transmission along a route implementing [[High-Level Data Link Control|HLDC]].
 
-![[HLDC Station Image.png]]
+![[HLDC Station.png]]
 # Primary Station
 The _Primary Station_ controls the operation of the link.
 
@@ -17,4 +17,4 @@ The _Combined Station_ is an instance of a [[HLDC Station#Primary Station|primar
 > [!note]
 > The _Combined Station_ may issue **commands** or **responses**.
 
-![[HLDC Combined Station Image.png]]
+![[HLDC Combined Station.png]]

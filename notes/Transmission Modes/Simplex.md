@@ -4,7 +4,7 @@ tags:
 ---
 In _simplex mode_, the sender is able to send data but cannot receive data, making it a **mono-directional** connection.
 
-![[Simplex Image.png]]
+![[Simplex.png]]
 
 # Advantages
 

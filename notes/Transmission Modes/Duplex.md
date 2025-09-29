@@ -4,7 +4,7 @@ tags:
 ---
 In _duplex mode_, **both** the sender and receiver can transmit at any moment without restrictions.
 
-![[Duplex Image.png]]
+![[Duplex.png]]
 # Advantages
 
 | Advantage                            | Description                                                                                  |
