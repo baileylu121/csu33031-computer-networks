@@ -1,0 +1,1 @@
+_Logical Link Control_ is the interface between [[Medium Access Control]] and the network layer for which it transfers data.
