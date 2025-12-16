@@ -1,0 +1,1 @@
+The _Bandwidth-Delay Product_ is the product of a **data link's capacity** (in bits per second) and it's **round trip delay time** (seconds).
