@@ -1,0 +1,1 @@
+_Piggybacking_ describes when a receiver **delays** sending an **acknowledgement** until it sends the next packet back to the sender so only one packet is sent back instead of multiple.
